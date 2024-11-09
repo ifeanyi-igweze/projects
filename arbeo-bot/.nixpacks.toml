@@ -1,0 +1,5 @@
+[phases.setup]
+install = "npm install"
+
+[phases.start]
+run = "npm start"
